@@ -1,0 +1,25 @@
+body    {
+    background-color: #393939;
+    color: #ff5a09;
+    font-size: 16px;
+}
+#about, #projects  {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 5px;
+}
+.card-body  {
+    align-content: center;
+}
+#code   {
+    height: auto;
+}
+.card   {
+    margin: auto;
+    padding: 10px;
+}
+.row    {
+    margin: 10px;
+    
+}
