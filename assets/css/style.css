@@ -43,3 +43,23 @@ h2  {
 .jumbotron  {
     background-color: #393939;
 }
+
+@media screen and (max-width: 992px) {
+    
+    .card  {
+        margin: auto;
+        width: auto;
+    }
+}
+@media screen and (max-width: 768px)    {
+    h5   {
+        font-size: 12px;
+    }
+    
+}
+@media screen and (max-width: 575px)    {
+    h5   {
+        font-size: 14px;
+    }
+    
+}
