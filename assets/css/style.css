@@ -23,3 +23,16 @@ body    {
     margin: 10px;
     
 }
+#project-banner, #contact-me {
+    background-color: #ec7f37;
+    color: #393939;
+    text-align: center;
+    margin-top: 30px;
+}
+h2  {
+    font-size: 50px;
+    text-emphasis: 600;
+}
+#Roy    {
+    border-radius: 50%;
+}
