@@ -6,12 +6,11 @@ body    {
 }
 .navbar {
     overflow: hidden;
-    z-index: 9;
-}
-.sticky {
+} 
+ .sticky {
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 87%;
 }
 .sticky + .content {
     padding-top: 60px;
@@ -96,4 +95,4 @@ li {
         font-size: 14px;
     }
     
-}
+} 
