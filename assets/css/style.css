@@ -10,7 +10,7 @@ body    {
  .sticky {
     position: fixed;
     top: 0;
-    width: 87%;
+    width: 73%;
 }
 .sticky + .content {
     padding-top: 60px;
@@ -84,7 +84,13 @@ li {
     margin-left: auto;
     margin-right: auto;
 }
-
+@media screen and (max-width: 1295px){
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 87%;
+    }
+}
 @media screen and (max-width: 992px) {
     
     .card  {
