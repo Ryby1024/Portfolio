@@ -1,12 +1,16 @@
 body    {
-    background-color: #393939;
-    color: #ec7f37;
+    background-color: white;
+    color: darkslateblue;
     font-size: 16px;
     margin-top: 15px;
 }
 .navbar {
     overflow: hidden;
 } 
+
+h1{
+    color: white;
+}
  .sticky {
     position: fixed;
     top: 0;
@@ -50,11 +54,11 @@ body    {
     
 }
 #project-banner, #contact-me {
-    background-color: #ff5a09;
-    color: #393939;
+    background-color: blue;
+    color: white;
     text-align: center;
-    margin-top: 30px;
-      
+    padding: 20px;
+    margin: 20px;      
 }
 h2  {
     font-size: 50px;
@@ -66,10 +70,11 @@ h2  {
 #contact-info   {
     margin-top: 30px;
     line-height: 30px;
-    font-size: 25px;
+    font-size: 16px;
 }
 .card-deck  {
     margin: auto;
+    color: white;
 }
 
 li {
@@ -78,7 +83,8 @@ li {
     font-size: 20px;
 }
 #footer{
-    background-color: #5e5d5d;
+    background-color: blue;
+    color: white;
     text-align: center;
     margin-top: 20px;
     margin-left: auto;
