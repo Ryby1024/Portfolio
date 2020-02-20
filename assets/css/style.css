@@ -88,6 +88,18 @@ li {
     margin-left: auto;
     margin-right: auto;
 }
+.popover    {
+    border: 2px solid black;
+}
+.popover-header  {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.popover-body   {
+    background-color: rgb(107, 104, 104);
+    color: white;
+}
 @media screen and (max-width: 1295px){
     .sticky {
         position: fixed;
