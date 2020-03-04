@@ -51,7 +51,7 @@ h1{
     margin-top: 10px;
         
 }
-#project-banner, #contact-me {
+#project-banner, #contact-me, #technical-banner {
     background-color: blue;
     color: white;
     text-align: center;
