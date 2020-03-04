@@ -36,12 +36,12 @@ let techSkills = [
 },    
 {
     name: "Express-Handlebars",
-    image: "assets/images/handlebars.png",
+    image: "assets/images/handlebar.png",
     animation: "zoom-in"
 },    
 {
     name: "MySQL",
-    image: "assets/images/mysql.png",
+    image: "assets/images/sql.png",
     animation: "zoom-out"
 },    
 {
