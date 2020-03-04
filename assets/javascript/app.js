@@ -31,7 +31,7 @@ let techSkills = [
 },    
 {
     name: "Express",
-    image: "assets/images/express.png",
+    image: "assets/images/express.jpg",
     animation: "zoom-out"
 },    
 {
@@ -46,12 +46,12 @@ let techSkills = [
 },    
 {
     name: "MongoDB",
-    image: "assets/images/mongo.png",
+    image: "assets/images/mongodb.jpg",
     animation: "zoom-in"
 },
 {
     name: "React.js",
-    image: "assets/images/react.png",
+    image: "assets/images/react.jpg",
     animation: "zoom-out"
 },
 {
